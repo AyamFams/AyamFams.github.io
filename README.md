@@ -11,7 +11,7 @@
         <h1>Selamat Datang di Website Kesehatan</h1>
         <nav>
             <ul>
-                <li><a href="#">Beranda</a></li>
+                <li><a href="#">kontol</a></li>
                 <li><a href="#">Artikel</a></li>
                 <li><a href="#">Tentang Kami</a></li>
                 <li><a href="#">Kontak</a></li>
